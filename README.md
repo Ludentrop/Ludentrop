@@ -7,7 +7,7 @@ I am!
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/Ludentrop/wall/blob/master/ANN.gif" width="480px"/>
+<img align="right" alt="GIF" src="https://github.com/Ludentrop/wall/blob/master/ANN.gif" width="420px"/>
   
 ### 🧐 More About Me:
 
