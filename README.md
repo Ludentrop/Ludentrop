@@ -3,15 +3,16 @@
 <a href='https://www.kaggle.com/mayerludentrop/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am!
+These are Mayer's repos!
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://github.com/Ludentrop/wall/blob/master/ANN.gif" width="420px"/>
   
-### 🧐 More About Me:
+### 🧐 More About Mayer:
 
-- 🔭 &nbsp; I’m currently working on 
+- 🔭 &nbsp; I am currently working on
+- developing algorithms for trading in the cryptocurrency market
 - 🤝 &nbsp; I’m looking to collaborate on 
 - 🌱 &nbsp; I’m currently learning  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ludentrop?tab=repositories)
