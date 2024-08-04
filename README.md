@@ -35,16 +35,3 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" align="left" alt="matlab" height='42px'/> </a>
 
 <br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/ludentrop/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/ludentrop/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/ludentrop/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
