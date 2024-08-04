@@ -12,7 +12,7 @@ These are Mayer's repos!
 ### 🧐 More About Mayer:
 
 - 🔭 &nbsp; I am currently working on
-- developing algorithms for trading in the cryptocurrency market
+  - developing algorithms for trading in the cryptocurrency market
 - 🤝 &nbsp; I’m looking to collaborate on 
 - 🌱 &nbsp; I’m currently learning  
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ludentrop?tab=repositories)
