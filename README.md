@@ -11,16 +11,19 @@ These are Mayer's repos!
   
 ### 🧐 More About Mayer:
 
-- 🔭 &nbsp; I am currently working on
+- 🔭 &nbsp; I am currently working on:
   - developing algorithms for trading in the cryptocurrency market
-- 🤝 &nbsp; I’m looking to collaborate on 
-- 🌱 &nbsp; I’m currently learning  
+  - developing machine learning algorithms for financial markets
+  - 
+- 🤝 &nbsp; I’m looking to collaborate on:
+  - machine learning
+  - finance/trading
+  - business process automation
+- 🌱 &nbsp; I’m currently learning applied math in finance and artificial intelligence
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ludentrop?tab=repositories)
-- 🎨 &nbsp; Using 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ludentrop/)
 - 📝 &nbsp; Checkout my [resume]
-- 📚 &nbsp; When I am free, I read 
 
 <br>
 
