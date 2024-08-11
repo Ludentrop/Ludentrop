@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ludentrop/wall/blob/master/ANN.gif" width="420px"/>
   
-### 🧐 More About Mayer:
+### 🧐 More About Maier:
 
 - 🔭 &nbsp; I am currently working on:
   - developing algorithms for trading in the cryptocurrency market
