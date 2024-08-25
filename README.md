@@ -19,7 +19,7 @@
 - 🌱 &nbsp; I’m currently learning applied math in finance and artificial intelligence and smart contracts
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ludentrop/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/14z6Ddr4I3QZo3Rk353oVWhCrqOdEDHYt/view?usp=drive_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Bm1GF92g_pLN09zST5p8wongwwOToCTd/view?usp=drivesdk)
 
 <br>
 
