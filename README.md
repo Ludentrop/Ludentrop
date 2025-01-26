@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ludentrop/wall/blob/master/ANN.gif" width="420px"/>
   
-### 🧐 More About Maier:
+### More about me:
 
 - 🔭 &nbsp; I am currently working on:
   - developing algorithms for trading in the cryptocurrency market
@@ -16,10 +16,6 @@
   - machine learning
   - finance/trading
   - business process automation
-- 🌱 &nbsp; I’m currently learning applied math in finance and artificial intelligence and smart contracts
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ludentrop/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Bm1GF92g_pLN09zST5p8wongwwOToCTd/view?usp=drivesdk)
 
 <br>
 
