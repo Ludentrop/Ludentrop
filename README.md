@@ -10,12 +10,12 @@
 ### More about me:
 
 - 🔭 &nbsp; I am currently working on:
-  - developing algorithms for trading in the cryptocurrency market
-  - developing machine learning algorithms for financial markets
+  - creating an Autonomous Trading System
+  - developing programming, ML and math tools for PM
 - 🤝 &nbsp; I’m looking to collaborate on:
   - machine learning
   - finance/trading
-  - business process automation
+  - cash generating
 
 <br>
 
@@ -26,6 +26,7 @@
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" align="left" alt="matlab" height='42px'/> </a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Docker_logo.png/220px-Docker_logo.png" height='42px'/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/250px-Docker_%28container_engine%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" height='42px'/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" align="left" alt="matlab" height='42px'/> </a>
 
 <br>
